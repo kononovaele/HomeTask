@@ -3,7 +3,7 @@
 
 Console.WriteLine(" --- Task 15 ---");
 
-Console.Write("Input any digit, please: ");
+Console.Write("Input any digit, please: ");cd ..
 string strDigit = Console.ReadLine();
 if( strDigit.Length < 3 ) {
     Console.WriteLine("There is not third digit, sorry!!!");    
